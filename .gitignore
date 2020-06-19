@@ -2,3 +2,6 @@
 /MG5
 /MG5_aMC_v2.7.2.tar.gz
 /data
+
+# Except these files
+!/data/**/Cards/*
