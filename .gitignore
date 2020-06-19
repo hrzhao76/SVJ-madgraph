@@ -10,43 +10,36 @@ data/QCD_100_250/*
 !data/QCD_100_250/Cards
 !data/QCD_100_250/bin
 
-data/*
 !data/QCD_250_500
 data/QCD_250_500/*
 !data/QCD_250_500/Cards
 !data/QCD_250_500/bin
 
-data/*
 !data/QCD_500_1000
 data/QCD_500_1000/*
 !data/QCD_500_1000/Cards
 !data/QCD_500_1000/bin
 
-data/*
 !data/QCD_1000_inf
 data/QCD_1000_inf/*
 !data/QCD_1000_inf/Cards
 !data/QCD_1000_inf/bin
 
-data/*
 !data/sig_schannel
 data/sig_schannel/*
 !data/sig_schannel/Cards
 !data/sig_schannel/bin
 
-data/*
 !data/sig_tchannel
 data/sig_tchannel/*
 !data/sig_tchannel/Cards
 !data/sig_tchannel/bin
 
-data/*
 !data/ttbar
 data/ttbar/*
 !data/ttbar/Cards
 !data/ttbar/bin
 
-data/*
 !data/WZ_jj
 data/WZ_jj/*
 !data/WZ_jj/Cards
