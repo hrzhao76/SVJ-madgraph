@@ -1,7 +1,11 @@
 /.vscode
 /MG5
 /MG5_aMC_v2.7.2.tar.gz
-/data
+
 
 # Except these files
-!*/*/Cards
+data/*
+!data/QCD_100_250
+data/QCD_100_250/*
+!data/QCD_100_250/Cards
+!data/QCD_100_250/bin
