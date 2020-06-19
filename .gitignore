@@ -4,4 +4,4 @@
 /data
 
 # Except these files
-!/data/**/Cards/*
+!*/*/Cards
