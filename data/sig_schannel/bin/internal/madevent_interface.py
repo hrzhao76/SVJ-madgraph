@@ -5158,11 +5158,6 @@ tar -czf split_$1.tar.gz split_$1
 
                 logger.info("Splitting .lhe event file for PY8 parallelization...")
 
-                # print('Swapping pdg id before Pythia - run_tag:' + str(self.run_tag))
-                # os.system("gunzip Events/%s/unweighted_events.lhe.gz" %self.run_tag)
-                # os.system("sed -i 's/5000521/4900101/g' Events/%s/unweighted_events.lhe" %self.run_tag)
-                # os.system ("gzip Events/%s/unweighted_events.lhe" %self.run_tag)
-
                 print ("Swapping pdg id before Pythia - run_tag:" + str(self.run_name))
                 os.system("gunzip Events/%s/unweighted_events.lhe.gz" % self.run_name)
                 os.system(
